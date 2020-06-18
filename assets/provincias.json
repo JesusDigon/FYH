@@ -1,0 +1,77 @@
+{
+	"andalucia": [
+		"almeria", "cadiz", "cordoba", "granada", "huelva", "jaen", "malaga", "sevilla"
+	], 
+
+	"aragon": [
+		"huesca", "teruel", "zaragoza"
+	],
+
+	"asturias": [
+		"asturias"
+	],
+
+	"baleares": [
+		"baleares"
+	], 
+
+	"canarias": [
+		"las palmas", "santa cruz de tenerife"
+	], 
+
+	"cantabria": [
+		"cantabria"
+	],
+
+	"castilla la mancha": [
+		"albacete", "ciudad real", "cuenca", "guadalajara", "toledo"
+	], 
+
+	"castilla y leon": [
+		"avila", "burgos", "leon", "palencia", "salamanca", "segovia", "soria", "valladolid", "zamora"
+	], 
+
+	"cataluña": [
+		"barcelona", "gerona", "lerida", "tarragona"
+	], 
+
+	"comunidad valenciana": [
+		"alicante", "castellon", "valencia"
+	],
+
+	"extremadura": [
+		"badajoz", "caceres"
+	], 
+
+	"galicia": [
+		"la coruña", "lugo", "orense", "pontevedra"
+	],
+
+	"la rioja": [
+		"la rioja"
+	], 
+
+	"madrid": [
+		"madrid"
+	], 
+
+	"navarra": [
+		"navarra"
+	],
+
+	"pais vasco": [
+		"alava", "guipuzcua", "vizcaya"
+	],
+
+	"murcia": [
+		"murcia"
+	], 
+
+	"ceuta": [
+		"ceuta"
+	], 
+
+	"melilla": [
+		"melilla"
+	]
+}
